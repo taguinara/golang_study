@@ -1,1 +1,1 @@
-## Projetos - Estudo pessoal.
+## GO: Estudo.
