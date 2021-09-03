@@ -1,2 +1,1 @@
-# golang_study
-Estudo pessoal
+## Projetos - Estudo pessoal.
